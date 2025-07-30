@@ -12,4 +12,4 @@
 
 ## linux cmdz
 
-<img src = "">
+<img src = "https://github.com/lgrock007/5015075_Ramesh/blob/master/img/linux.png">
