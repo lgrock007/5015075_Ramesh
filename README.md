@@ -8,3 +8,8 @@
 ## Git Training Certificate 
 
 <img src = "https://github.com/lgrock007/5015075_Ramesh/blob/master/img/git_training_cert_img.png">
+
+
+## linux cmdz
+
+<img src = "">
